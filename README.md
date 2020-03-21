@@ -9,3 +9,4 @@ The link of the first place solution to this Challenge is: https://github.com/Se
 
 This is the architecture of our model: ![image](https://github.com/GuanghuiFU/DrCT_1/blob/master/architecture.png)
 
+If you have any questions, please contact: aslanfu123@gmail.com or fuguanghui@emails.bjut.edu.cn
