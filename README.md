@@ -1,5 +1,5 @@
 # DrCT 1
-We propose a model called DrCT from the paper Full-Slice based Redundancy-Free Brain CT Image Diagnosis with Explanations.
+We propose a model called DrCT from the paper Attention-based Full Slice Brain CT Image Diagnosis with Explanations.
 
 The csv files are the prediction of DrCT and RSNA-1 model, and the sequence-level true label.
 
