@@ -9,4 +9,16 @@ The link of the first place solution to this Challenge is: https://github.com/Se
 
 This is the architecture of our model: ![image](https://github.com/GuanghuiFU/DrCT_1/blob/master/architecture.png)
 
+You can cite our paper as: 
+
+@article{fu2021attention,
+  title={Attention-based full slice brain CT image diagnosis with explanations},
+  author={Fu, Guanghui and Li, Jianqiang and Wang, Ruiqian and Ma, Yue and Chen, Yueda},
+  journal={Neurocomputing},
+  volume={452},
+  pages={263--274},
+  year={2021},
+  publisher={Elsevier}
+}
+
 If you have any questions, please contact: aslanfu123@gmail.com or fuguanghui@emails.bjut.edu.cn
